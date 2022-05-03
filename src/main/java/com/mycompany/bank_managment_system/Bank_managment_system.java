@@ -12,6 +12,7 @@ package com.mycompany.bank_managment_system;
 public class Bank_managment_system {
 
     public static void main(String[] args) {
+        //comment check
         System.out.println("Hello World!");
     }
 }
